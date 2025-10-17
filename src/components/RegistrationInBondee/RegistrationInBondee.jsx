@@ -1,10 +1,9 @@
-export default function RegistrationInDB() {
+export default function RegistrationInBondee() {
     return (
         <>
             <div className="welcome-message">
                 <h1 className="message_title">
-                    Добро пожаловать у сервіс
-                    <span className="message_service-name">InstagramProto</span>
+                    Добро пожаловать у сервіс <span className="message_service-name">InstagramProto</span>
                 </h1>
                 <h3 className="message-description">
                     Щоб почати користуватись нашим сервісом, вам потрібно зареєстуватись у системі
